@@ -1,0 +1,2 @@
+# coretalk
+CoreTalk Misskey Instance
